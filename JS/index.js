@@ -217,7 +217,7 @@
 //   let num3 = 8;
 //   findSmallestAndLargest(num1, num2, num3);
 
-// 14 - masala
+// 15 - masala
 
 // function findTwoLargestNumbers(num1, num2, num3) {
 //     let sortedNumbers = [num1, num2, num3].sort((a, b) => a - b); 
